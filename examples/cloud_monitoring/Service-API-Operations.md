@@ -69,7 +69,7 @@ When you create a new entity in the monitoring system, you specify the follow pa
 * The IP address(es) for the entity (optional)
 * The meta-data that the monitoring system uses if an alarm is triggered (optional)
 
-These parameters are further described in Attributes. See Create Entities for an example of how to create an entity.
+These parameters are further described in Attributes. See [Create Entities](entities-create-entity) for an example of how to create an entity.
 
 ### Create Entity
 
