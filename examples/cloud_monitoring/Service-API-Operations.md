@@ -20,7 +20,9 @@ Normal Response Code: 200
 
 Error Response Codes: 401, 403, 500, 503
 
-```xml label="Get Account Response: XML" file="partials/get_accounts.xml"
+#### Get Account Response: XML
+
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <account>
   <metadata>
@@ -30,7 +32,9 @@ Error Response Codes: 401, 403, 500, 503
 </account>
 ```
 
-```json label="Get Account Response: JSON" file="partials/get_accounts.json"
+#### Get Account Response: JSON
+
+```javascript
 {
     "metadata": {
         "key": "aValue"
