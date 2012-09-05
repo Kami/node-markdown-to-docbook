@@ -11,7 +11,7 @@
     "bin": "./bin"
   },
   "dependencies": {
-    "marked": "= 0.2.5",
+    "marked": "https://github.com/Kami/marked/tarball/dev",
     "elementtree": "= 0.1.2",
     "optimist": "= 0.3.1",
     "async": "= 0.1.22"
