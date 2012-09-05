@@ -20,6 +20,25 @@ Normal Response Code: 200
 
 Error Response Codes: 401, 403, 500, 503
 
+```xml label="Get Account Response: XML" file="partials/get_accounts.xml"
+<?xml version="1.0" encoding="utf-8"?>
+<account>
+  <metadata>
+    <key>aValue</key>
+  </metadata>
+  <webhook_token>token12345</webhook_token>
+</account>
+```
+
+```json label="Get Account Response: JSON" file="partials/get_accounts.json"
+{
+    "metadata": {
+        "key": "aValue"
+    },
+    "webhook_token": "token12345"
+}
+```
+
 ### Update Account
 
 ### Get Limits
