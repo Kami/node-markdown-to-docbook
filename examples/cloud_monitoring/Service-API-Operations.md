@@ -104,6 +104,8 @@ Once you have created an entity, you will typically create a check for it. See C
 </entity>
 ```
 
+#### Entity Create Request: JSON
+
 ```javascript
 {
     "label": "Brand New Entity",
