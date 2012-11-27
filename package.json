@@ -17,6 +17,9 @@
     "sprintf": "= 0.1.1",
     "async": "= 0.1.22"
   },
+  "devDependencies": {
+    "jshint": ">= 0.7.1"
+  },
   "engines": {
     "node": ">= 0.6.0 && < 0.9.0"
   },
